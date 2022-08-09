@@ -17,17 +17,18 @@
 
 ## Содержание каталога
 
-> * Репозиторий Git
-> * Programm - Папка с программой на языке C#  
->> * .gitignore - Сгенерированный dotnet
->> * Program.cs - Код к задаче
-> * Readme.md - Описание
+- Репозиторий Git
+- Programm - Папка с программой на языке C#  
+    - .gitignore - Сгенерированный dotnet
+    - Program.cs - Код к задаче
+- Readme.md - Описание
+- Diagram.drawio.png - блок-схема
 
 ## Использование для проверки
 
-1.
-2. см.  [Diagram.drawio.png](Diagram.drawio.png) 
+1. https://github.com/AntonArlate/final_work_specialization_selection.git
+2. см. [Diagram.drawio.png](Diagram.drawio.png) 
 3. Данный текст находится в Readme.md
 4. Скомпилировать C# код из файла [Program.cs](Programm/Program.cs)  
 Для проверки изменить инициализацию массива startingArray (строка 1)
-5.
+5. Использована простая струтура контроля версий "Git" с коммитами, без веток
